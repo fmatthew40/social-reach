@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-reach",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmatthew40/social-reach.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmatthew40/social-reach/issues"
+  },
+  "homepage": "https://github.com/fmatthew40/social-reach#readme",
+  "description": ""
+}
